@@ -1,0 +1,22 @@
+{ body 
+    font-family: sans-serif;
+    background-color: aqua;
+    border: 20px dotted royalblue;
+}
+h1 {
+    text-align: center;
+    color: blue;
+}
+p {
+    text-align: center;
+    color:blue; 
+}
+img {
+    width: 350px;
+    height: 300px;
+}
+iframe {
+    width: 400px;
+    height: 400px;
+    
+}
